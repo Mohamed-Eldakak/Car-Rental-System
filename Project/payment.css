@@ -1,0 +1,9 @@
+body {
+    background-image: url('../car/tesla.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #20152e;
+  }

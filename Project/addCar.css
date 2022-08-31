@@ -1,0 +1,17 @@
+body {
+    background-image: url('../car/benzemaa.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #20152e;
+  }
+  label{
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #050404;
+}

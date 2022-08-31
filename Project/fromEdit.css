@@ -1,0 +1,17 @@
+.edit {
+    background-image: url('../car/broken.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.edit , label{
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #030303;
+}
+.edit,.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #cae2ff;
+  }
